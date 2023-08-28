@@ -1,13 +1,15 @@
 ## Hey, Devs! 👋
 
 
-Eu me chamo Evellyn Rafael, tenho 25 anos e atualmente moro na cidade de Juiz de Fora/MG. Eu amo tecnologia e arte, dois fatores que me fizeram entrar na carreira de Dev Front-End.
+Eu me chamo Evellyn Rafael, tenho 25 anos e atualmente moro na cidade de Juiz de Fora/MG. Eu amo tecnologia e arte, dois fatores que me fizeram entrar na carreira de Dev Front-End.  
 
 - 🔭 Atualmente estou trabalhando no setor de inovação! Desenvolvendo soluções através de softwares internos para a transformação digital na empresa utilizando o React.JS. Além de ter um projeto para treinamentos em Realidade Virtual utilizando o Meta Quest 2 e Unreal Engine para cenários 3D! 
 
 - 🌱 Para aprofundar meus conhecimentos tenho estudado Node.JS e Banco de Dados MySql, assim consigo fazer minhas "artes" mais robustas com um entendimento maior de back-end.
   
-- 🛹  Meu Hobbie atual tem sido andar de skate e eu estou ficando muito boa nisso!
+- 🛹 Meus Hobbies atuais tem sido andar de skate, jogar videogame e desenhar.
+  
+- 🎮 Tenho como principais projetos pessoais desenvolver minha página/portifólio e o jogo chamado Arroy! Participante de uma Game Jam. 
 
 
 ## Ferramentas e Tecnologias
@@ -27,6 +29,9 @@ Eu me chamo Evellyn Rafael, tenho 25 anos e atualmente moro na cidade de Juiz de
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
   
           
 </div>
