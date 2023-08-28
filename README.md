@@ -7,8 +7,6 @@ Eu me chamo Evellyn Rafael, tenho 25 anos e atualmente moro na cidade de Juiz de
 
 - 🌱 Para aprofundar meus conhecimentos tenho estudado Node.JS e Banco de Dados MySql, assim consigo fazer minhas "artes" mais robustas com um entendimento maior de back-end.
   
-- 💬 Eu recentemente descobri que tenho TDAH, uma fato curioso apenas, mas isso nunca me impediu de estar sempre buscando conhecimento e, apesar da minha condição, me esforçar bastante para alcançar meus objetivos.
-  
 - 🛹  Meu Hobbie atual tem sido andar de skate e eu estou ficando muito boa nisso!
 
 
