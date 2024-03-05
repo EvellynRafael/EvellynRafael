@@ -1,7 +1,8 @@
 ## Hey, Devs! 👋
 
 
-Eu me chamo Evellyn Rafael, tenho 25 anos e atualmente moro na cidade de Juiz de Fora/MG. Eu amo tecnologia e arte, dois fatores que me fizeram entrar na carreira de Dev Front-End.  
+Eu me chamo Evellyn Rafael, tenho 25 anos e atualmente moro na cidade de Juiz de Fora/MG. Eu amo tecnologia e arte, dois fatores que me fizeram entrar na carreira de Dev Front-End. 
+  My name is Evellyn Rafael, I'm 25 years old and I currently live in the city of Juiz de Fora/MG. I love technology and art, two factors that made me enter the Front-End Dev career.
 
 - 🔭 Atualmente estou trabalhando no setor de inovação! Desenvolvendo soluções através de softwares internos para a transformação digital na empresa utilizando o React.JS. Além de ter um projeto para treinamentos em Realidade Virtual utilizando o Meta Quest 2 e Unreal Engine para cenários 3D! 
 
