@@ -6,7 +6,7 @@ Eu me chamo Evellyn Rafael, tenho 25 anos e atualmente moro na cidade de Juiz de
 
 - 🔭 Atualmente estou trabalhando no setor de inovação! Desenvolvendo soluções através de softwares internos para a transformação digital na empresa utilizando o React.JS. Além de ter um projeto para treinamentos em Realidade Virtual utilizando o Meta Quest 2 e Unreal Engine para cenários 3D! 
 
-- 🌱 Para aprofundar meus conhecimentos tenho estudado Node.JS e Banco de Dados MySql, assim consigo fazer minhas "artes" mais robustas com um entendimento maior de back-end.
+- 🌱 Para aprofundar meus conhecimentos tenho estudado Node.JS e Banco de Dados MySql e Angular, assim consigo fazer minhas "artes" utilizando outras tecnologias.
   
 - 🛹 Meus Hobbies atuais tem sido andar de skate, jogar videogame e desenhar.
   
