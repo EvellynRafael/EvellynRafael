@@ -10,7 +10,7 @@ Eu me chamo Evellyn Rafael, tenho 25 anos e atualmente moro na cidade de Juiz de
   
 - 🛹 Meus Hobbies atuais tem sido andar de skate, jogar videogame e desenhar.
   
-- 🎮 Tenho como principais projetos pessoais desenvolver minha página/portifólio e o jogo chamado Arroy! Participante de uma Game Jam. 
+- 🎮 Tenho como principais projetos pessoais desenvolver minha página/portifólio. 
 
 
 ## Ferramentas e Tecnologias
