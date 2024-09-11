@@ -1,16 +1,11 @@
-## Hey, Devs! 👋
+## Hey! 👋
 
 
-Eu me chamo Evellyn Rafael, tenho 25 anos e atualmente moro na cidade de Juiz de Fora/MG. Eu amo tecnologia e arte, dois fatores que me fizeram entrar na carreira de Dev Front-End. 
-  
+Formada em Jogos Digitais e Análise e Desenvolvimento de Sistemas atualmente cursando pós-graduação em Desenvolvimento FullStack, tenho experiência profissional focada em Desenvolvimento Web, Engenharia de Software e soluções Microsoft.
 
-- 🔭 Atualmente estou trabalhando no setor de inovação! Desenvolvendo soluções através de softwares internos para a transformação digital na empresa utilizando o React.JS. Além de ter um projeto para treinamentos em Realidade Virtual utilizando o Meta Quest 2 e Unreal Engine para cenários 3D! 
+Tenho proficiência nas tecnologias: React.JS, Node.JS, SQL, Angular e React Native. Integrei sistemas com ERP TOTVS RM utilizando API e Webservices. Desenvolvi sites com Microsoft Sharepoint, Power Pages e Power APPs. Análise de dados com Power BI e automações com Power Automate.
 
-- 🌱 Para aprofundar meus conhecimentos tenho estudado Node.JS e Banco de Dados MySql e Angular, assim consigo fazer minhas "artes" utilizando outras tecnologias.
-  
-- 🛹 Meus Hobbies atuais tem sido andar de skate, jogar videogame e desenhar.
-  
-- 🎮 Tenho como principais projetos pessoais desenvolver minha página/portifólio. 
+Apaixonada pela criação de experiências interativas e funcionais, estou constantemente melhorando as minhas competências e aprendendo novas tecnologias para oferecer soluções de software inovadoras e de alta qualidade. Sou uma profissional empenhada, proativa e sempre pronta a aceitar novos desafios na área do desenvolvimento e inovação. 
 
 
 ## Ferramentas e Tecnologias
@@ -46,11 +41,7 @@ Eu me chamo Evellyn Rafael, tenho 25 anos e atualmente moro na cidade de Juiz de
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvellynRafael&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EvellynRafael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-## Projetos
-
-- Página Pessoa/Portifólio: Em Progresso 
-                       
+                    
 ## Contatos:
 
 <div>
