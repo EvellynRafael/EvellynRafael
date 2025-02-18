@@ -1,19 +1,17 @@
 ## Hey! 👋
 
 
-Graduated in Digital Games, Systems Analysis and Development and Postgraduate in FullStack Development, I have professional experience focused on Web Development, Software Engineering and Microsoft solutions.
+Sou Desenvolvedora Front-End com 3 anos de experiência, especializada em Desenvolvimento Web, Engenharia de Software e soluções Microsoft. Tenho proficiência em tecnologias como React.JS, Node.JS, MySql, TypeScript e React Native. Atualmente, estou estudando Flutter para expandir minhas habilidades.
 
-I'm proficient in the following technologies: React.JS, Node.JS, SQL, Angular and React Native. I'm also currently studying Flutter. 
+- Desenvolvi softwares e páginas web utilizando React.JS, Axios, Redux, Material-UI, React Hook Form, Tailwind, Node.JS, além de auxiliar com o desenvolvimento de um robô com inteligência artificial em Python.
 
-- I've integrated systems with ERP TOTVS RM using API and Webservices. 
+- Integrei sistemas com ERP TOTVS RM utilizando API e Webservices com SoapUI.
 
-- Worked on software and web page development with React.JS, Axios, Redux and Node.JS. 
+- Criei projetos de Realidade Virtual, modelando objetos 3D no Blender e desenvolvendo game design no Unreal 5 com BluePrint e C#.
 
-- I've developed Virtual Reality projects modeling 3D objects in Blender, developing game design in Unreal 5 with BluePrint and C#.
+- Desenvolvi soluções utilizando ferramentas Microsoft como SharePoint, Power Pages e Power Apps, além de realizar análise de dados com Power BI e automações com Power Automate.
 
-- I've created simple solutions using Microsoft Sharepoint, Power Pages and Power APPs. Data analysis with Power BI and automations with Power Automate.
-
-Passionate about creating interactive and functional experiences, I am constantly improving my skills and learning new technologies to offer innovative, high-quality software solutions. I am a committed, proactive professional who is always ready to take on new challenges in the field of development and innovation.
+Apaixonada pela criação de experiências interativas e funcionais, estou constantemente melhorando minhas competências e aprendendo novas tecnologias para oferecer soluções de software inovadoras e de alta qualidade. Sou uma profissional empenhada, proativa e sempre pronta a aceitar novos desafios na área do desenvolvimento e inovação.
 
 ## Contacts
 
