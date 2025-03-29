@@ -1,17 +1,21 @@
 ## Hey! 👋
 
 
-Sou Desenvolvedora Front-End com 3 anos de experiência, especializada em Desenvolvimento Web, Engenharia de Software e soluções Microsoft. Tenho proficiência em tecnologias como React.JS, Node.JS, MySql, TypeScript e React Native. Atualmente, estou estudando Flutter para expandir minhas habilidades.
+I am a Developer with over three years of experience, specializing in Web and Mobile Development, Software Engineering, and Microsoft Solutions. I am proficient in technologies such as React.JS, Node.JS, MySQL, TypeScript, and React Native. Currently, I am expanding my expertise in mobile development by studying Flutter.
 
-- Desenvolvi softwares e páginas web utilizando React.JS, Axios, Redux, Material-UI, React Hook Form, Tailwind, Node.JS, além de auxiliar com o desenvolvimento de um robô com inteligência artificial em Python.
+- Throughout my career, I have developed software and web pages using React.JS, Axios, Redux, Material-UI, React Hook Form, and Tailwind for the front end, and Node.JS, Express, and MySQL for the back end. Additionally, I contributed to the creation of an AI-powered robot in Python to automate data verification processes.
 
-- Integrei sistemas com ERP TOTVS RM utilizando API e Webservices com SoapUI.
+- I have assisted in developing mobile applications with React Native, later transitioning to Native Android development with Java. I also applied my knowledge of Flutter to create a small quiz app for the company I worked for.
 
-- Criei projetos de Realidade Virtual, modelando objetos 3D no Blender e desenvolvendo game design no Unreal 5 com BluePrint e C#.
+- I integrated systems with ERP TOTVS RM using APIs and Webservices with SoapUI, automating and streamlining processes within the ERP by connecting it to software developed in React.
 
-- Desenvolvi soluções utilizando ferramentas Microsoft como SharePoint, Power Pages e Power Apps, além de realizar análise de dados com Power BI e automações com Power Automate.
+- I created Virtual Reality projects, modeling 3D objects in Blender and designing games in Unreal Engine 5 using Blueprints and C#.
 
-Apaixonada pela criação de experiências interativas e funcionais, estou constantemente melhorando minhas competências e aprendendo novas tecnologias para oferecer soluções de software inovadoras e de alta qualidade. Sou uma profissional empenhada, proativa e sempre pronta a aceitar novos desafios na área do desenvolvimento e inovação.
+- I have developed solutions using Microsoft tools such as SharePoint, Power Pages, and Power Apps. My work also includes data analysis, dashboard creation with Power BI, and automation with Power Automate.
+
+- Furthermore, I have participated in 24-hour project development competitions, having had the privilege of being part of a winning team. I also served as an interpreter during an academic exchange program and have consistently volunteered in various social projects.
+
+Passionate about creating interactive and functional experiences, I am constantly enhancing my skills and exploring new technologies to deliver innovative and high-quality software solutions. I am a dedicated and proactive professional, always ready to embrace new challenges in the fields of development and innovation.
 
 ## Contacts
 
