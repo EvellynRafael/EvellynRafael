@@ -16,6 +16,12 @@ Além disso, já participei de competições de desenvolvimento de projetos com 
 
 Apaixonada pela criação de experiências interativas e funcionais, estou constantemente melhorando minhas competências e aprendendo novas tecnologias para oferecer soluções de software inovadoras e de alta qualidade. Sou uma profissional empenhada, proativa e sempre pronta a aceitar novos desafios na área do desenvolvimento e inovação.
 
+<div>
+  <a href="https://portfolio-sand-six-12.vercel.app/" target="_blank">
+    Portfolio Aqui!
+  </a>
+</div>
+
 ## Contatos
 
 <div>
