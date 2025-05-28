@@ -1,24 +1,20 @@
 ## Hey! 👋
 
-Sou Desenvolvedora com mais de 3 anos de experiência, especializada em Desenvolvimento Web, Mobile e Soluções Microsoft. Tenho proficiência em tecnologias como React.JS, Node.JS, MySql, TypeScript e React Native. Atualmente, estou estudando desenvolvimento mobile com Flutter para expandir minhas habilidades.
+Atuando com desenvolvimento web há mais de 3 anos, com foco em Frontend, criando interfaces bonitas, responsivas e intuitivas que melhoram a experiência do usuário e otimizam a interação com sistemas digitais. Atualmente, estou estudando Java/Kotlin para ampliar meu conhecimento.
 
-- Desenvolvi softwares e páginas web utilizando React.JS, Axios, Redux, Material-UI, React Hook Form, Tailwind para o Frontend e Node.JS, Express e MySQL para o Backend. Além disso, participei do desenvolvimento de um robô com inteligência artificial em Python para automatizar processos de verificação de dados.
+• Desenvolvimento Web: Interfaces modernas e funcionais com React.JS, garantindo design atraente, acessibilidade e usabilidade. Desenvolvimento de APIs com Node.JS para integração eficiente de dados. Transformei processos manuais em fluxos digitais, reduzindo retrabalho e aumentando a produtividade.
 
-- Auxiliei no desenvolvimento de aplicativos móveis com React Native migrando posteriormente para Android Nativo (Java). Utilizei meus conhecimentos em Flutter para desenvolver um pequeno App de Quiz para a empresa em que trabalhava.
+• Aplicativos Mobile: Desenvolvimento de apps com React Native e migração para Java, otimizando a utilização da plataforma nativa, melhorando a performance e reduzindo bugs no aplicativo interno. 
 
-- Integrei sistemas com ERP TOTVS RM utilizando API e Webservices com SoapUI automatizando e facilitando os processos realizados dentro do ERP integrando com o Software desenvolvido em React.
+• Automação e Inteligência Artificial: Desenvolvimento de robôs com Python e IA, automatizando a verificação de dados e facilitando processos internos com ERP TOTVS RM e Webservices.
 
-- Criei projetos de Realidade Virtual, modelando objetos 3D no Blender e desenvolvendo game design no Unreal 5 com BluePrint e C#.
+• Projetos Reais: Estou sempre buscando expandir meus conhecimentos e aprimorar minhas habilidades através de projetos práticos e desafios reais.
 
-- Desenvolvi soluções utilizando ferramentas Microsoft como SharePoint, Power Pages e Power Apps, além de realizar análise de dados e criação de dashboards com Power BI e automações com Power Automate.
-
-Além disso, já participei de competições de desenvolvimento de projetos com duração de 24 horas, sendo que em uma delas tive a honra de integrar a equipe vencedora. Também atuei como intérprete durante um programa de intercâmbio acadêmico e, de forma contínua, tenho dedicado meu tempo como voluntária em diversos projetos sociais.
-
-Apaixonada pela criação de experiências interativas e funcionais, estou constantemente melhorando minhas competências e aprendendo novas tecnologias para oferecer soluções de software inovadoras e de alta qualidade. Sou uma profissional empenhada, proativa e sempre pronta a aceitar novos desafios na área do desenvolvimento e inovação.
+Busco desafios em desenvolvimento web e mobile, criando soluções digitais inovadoras que otimizam processos e impactam negócios.
 
 <div>
   <a href="https://portfolio-sand-six-12.vercel.app/" target="_blank">
-    Portfolio Aqui!
+    🔗 Portfolio Aqui!
   </a>
 </div>
 
