@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-Atuando com desenvolvimento web há mais de 3 anos, com foco em Frontend, criando interfaces bonitas, responsivas e intuitivas que melhoram a experiência do usuário e otimizam a interação com sistemas digitais. Atualmente, estou estudando Java/Kotlin para ampliar meu conhecimento.
+Atuo com desenvolvimento web há mais de 3 anos, com foco em Frontend, criando interfaces bonitas, responsivas e intuitivas que melhoram a experiência do usuário e otimizam a interação com sistemas digitais. Atualmente, estou estudando Java/Kotlin para ampliar meu conhecimento.
 
 • Desenvolvimento Web: Interfaces modernas e funcionais com React.JS, garantindo design atraente, acessibilidade e usabilidade. Desenvolvimento de APIs com Node.JS para integração eficiente de dados. Transformei processos manuais em fluxos digitais, reduzindo retrabalho e aumentando a produtividade.
 
@@ -10,7 +10,7 @@ Atuando com desenvolvimento web há mais de 3 anos, com foco em Frontend, criand
 
 • Projetos Reais: Estou sempre buscando expandir meus conhecimentos e aprimorar minhas habilidades através de projetos práticos e desafios reais.
 
-Busco desafios em desenvolvimento web e mobile, criando soluções digitais inovadoras que otimizam processos e impactam negócios.
+Busco me tornar referência em desenvolvimento web e mobile, criando soluções digitais inovadoras que otimizam processos e impactam negócios.
 
 <div>
   <a href="https://portfolio-sand-six-12.vercel.app/" target="_blank">
