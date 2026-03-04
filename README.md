@@ -1,12 +1,14 @@
 ## Hey! 👋
 
-Atuo com desenvolvimento web há mais de 3 anos, com foco em Frontend, criando interfaces bonitas, responsivas e intuitivas que melhoram a experiência do usuário e otimizam a interação com sistemas digitais. Atualmente, estou estudando Java/Kotlin para ampliar meu conhecimento.
+Atuo com desenvolvimento web há mais de 3 anos, com foco em Frontend, criando interfaces bonitas, responsivas e intuitivas que melhoram a experiência do usuário e otimizam a interação com sistemas digitais. Atualmente, estou estudando Flutter para ampliar meu conhecimento.
 
 • Desenvolvimento Web: Interfaces modernas e funcionais com React.JS, garantindo design atraente, acessibilidade e usabilidade. Desenvolvimento de APIs com Node.JS para integração eficiente de dados. Transformei processos manuais em fluxos digitais, reduzindo retrabalho e aumentando a produtividade.
 
 • Aplicativos Mobile: Desenvolvimento de apps com React Native e migração para Java, otimizando a utilização da plataforma nativa, melhorando a performance e reduzindo bugs no aplicativo interno. 
 
 • Automação e Inteligência Artificial: Desenvolvimento de robôs com Python e IA, automatizando a verificação de dados e facilitando processos internos com ERP TOTVS RM e Webservices.
+
+• Freelancer: Trabalhei em projetos freelancer com o desenvolvimento de sistemas de Ordem de Serviço utilizando as soluções da Microsoft (Power Apps e Power Automate) em empresas como Nosso Moinho.
 
 • Projetos Reais: Estou sempre buscando expandir meus conhecimentos e aprimorar minhas habilidades através de projetos práticos e desafios reais.
 
