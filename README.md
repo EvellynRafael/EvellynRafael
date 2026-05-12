@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-Atuo com desenvolvimento há mais de 4 anos, inicialmente com foco em Front-end, criei e melhorei interfaces as deixando responsivas e intuitivas melhorando a experiência do usuário e otimizam a interação com sistemas digitais. Sou formada em Desenvolvimento de Jogos, Análise e Desenvolvimento de Sistemas e tenho uma especialização em Desenvolvimento FullStack. Atualmente, estou estudando desenvolvimento iOS com Swift para ampliar meu conhecimentos e futuramente migrar de carreira.
+Atuo com desenvolvimento há mais de 4 anos, inicialmente com foco em Front-end, criei e melhorei interfaces as deixando responsivas e intuitivas melhorando a experiência do usuário e otimizam a interação com sistemas digitais. Sou formada em Desenvolvimento de Jogos, Análise e Desenvolvimento de Sistemas e tenho uma especialização em Desenvolvimento FullStack. Atualmente, estou estudando desenvolvimento Mobile com Flutter e aprendendo a linguagem nativa do ios Swift para ampliar meu conhecimentos e futuramente migrar de carreira.
 
 Em toda essa jornada eu trabalhei com:
 
